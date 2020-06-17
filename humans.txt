@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    DENISSE MIRANDA
+
+# THANKS
+   
+  I want my ashes spread in my favorite park. I don't know who, when or how is that gonna happen, and probably my wish won't be fulfilled, but that's my wish. I don't want to waste organs, I want to donate them and that's it.
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
