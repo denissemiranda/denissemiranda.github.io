@@ -1,2 +1,0 @@
-# denissemiranda.github.io
-Portfolio
