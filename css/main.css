@@ -17,9 +17,17 @@ html {
   line-height: 1.4;
 }
 
-body { 
-  margin: 10em 20em;
+h1 {
+  font-family: 'Open Sans';
+  font-weight: 800;
+  color: #000;
+}
+
+#minimal { 
+  width: 65%;
+  margin: 10% auto;
   font-family:'Open Sans';
+  color: #3b3750;
  }
 /*
  * Remove text-shadow in selection highlight:
