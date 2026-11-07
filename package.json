@@ -1,10 +1,10 @@
 {
-  "name": " ",
+  "name": "Denisse Miranda",
   "version": "0.0.1",
-  "description": "",
-  "keywords": "",
+  "description": "Marketing professional specialized in marketing automation and digital business management",
+  "keywords": "marketing automation, marketo professionals, salesforce marketing cloud professionals",
   "license": "",
-  "author": "",
+  "author": "Denisse Miranda",
   "scripts": {
     "build": "parcel build index.html",
     "dev": "parcel index.html --open",

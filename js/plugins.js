@@ -22,3 +22,4 @@
 }());
 
 // Place any jQuery/helper plugins in here.
+// This is kind of old school.
